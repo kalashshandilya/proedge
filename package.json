@@ -1,0 +1,14 @@
+
+        "name": "proedge contact assignment",
+        "version": "1.0.0",
+        "description": "contact app using React native",
+        "main": "app.js",
+        "scripts": {
+          "start": "app.js"
+        },
+        "dependencies": {
+          "react": "^17.0.2",
+          "react-native": "^0.64.2"
+        }
+      };
+      
